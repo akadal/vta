@@ -1,0 +1,2 @@
+# vta
+Veritabanı Tasarlama Atölyesi
