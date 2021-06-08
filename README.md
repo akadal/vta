@@ -2,6 +2,7 @@
 Veritabanı tasarlamak deneyimlerle kazanılan bir beceridir. İlişkisel veritabanlarına dair tüm ilkeleri, avantaj ve dezavantajları, normal formları ve bunlara ait kuralları biliyor olsanız bile karşılaşacağınız yeni bir projede veritabanı tasarımı yapmaya nereden başlamak, nelere dikkat etmek ve hangi durumlardan kaçınmak gerektiğine emin olamayabilirsiniz. Kitap içerisinde onlarca atölye bulunmaktadır. Bu atölyeler, veri kümelerine bakış açımızı geliştirmekle başlayıp bir sistem için eksiksiz bir veritabanı tasarlamanızı mümkün hale getirecektir. Elinizdeki kitap, yalnızca okuyarak faydalanabileceğiniz bir kitap değildir. Kitap boyunca anlatılan konuyla ilgili birçok atölye ile karşılaşacak ve çözüm önerileri üreterek sürece dahil olacaksınız. Her bir atölye durup üzerine düşünmemizi ve kağıt kalem kullanarak biraz vakit harcamanızı gerektirir. Ancak bu zorluklara rağmen kitabı tamamladığınızda kendinizi bir "Veritabanı Tasarımcısı" olarak görebilir ve derhal gerçek proje ekiplerinde yer almaya başlayabilirsiniz. Keyifli okumalar...
 ### Dr. Emre Akadal
 Akadal, E. (2021). _Veritabanı Tasarlama Atölyesi_. Türkmen Kitabevi. ISBN: 978-605-2184-63-9
+
 [https://www.turkmenkitabevi.com.tr/kitap/veritabani-tasarlama-atolyesi-emre-akadal-9786052184639](https://www.turkmenkitabevi.com.tr/kitap/veritabani-tasarlama-atolyesi-emre-akadal-9786052184639)
 
 ## İçindekiler
